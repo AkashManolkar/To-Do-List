@@ -48,7 +48,7 @@ to-do-list/
 ## 👨‍💻 Author
 
 - Created by Akash Manolkar
-- https://github.com/AkashManolkar
+- https://github.com/AkashManolkar/To-Do-List
 
 ## 📄 License
 
